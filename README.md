@@ -15,3 +15,10 @@ Examining Statcast data
 - stand
 - hit_location
 - p_throws
+
+
+Next steps...examine models with fewer inputs
+
+- ignore home team (i.e. park effects)
+- ignore hand of hitter and pitcher
+- build a new feature that looks at whether the hitter and pitcher are opposite (L vs. R & R vs L)
